@@ -1,0 +1,5 @@
+cyipopt==1.6.1
+matplotlib==3.10.7
+numpy==2.3.4
+scipy==1.16.3
+scikit-image==0.25.2
